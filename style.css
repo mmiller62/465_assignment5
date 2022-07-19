@@ -1,0 +1,23 @@
+body {background-color: #D7CEC7;}
+
+h2{color: #76323f}
+
+#intro {
+	width:  600px;
+	margin: auto;
+	font-family: 'Bitter', serif;
+	color:  #565656;
+}
+
+#map{
+	width: 600px;
+	margin: auto;
+
+}
+
+#info {
+	width:  600px;
+	margin: auto;
+	font-family: 'Bitter', serif;
+	color:  #565656;
+}
